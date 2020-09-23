@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Hodi</title>
+  
+  
+  <link href="http://hodi-inc.github.io/atom.xml" rel="self"/>
+  
+  <link href="http://hodi-inc.github.io/"/>
+  <updated>2020-09-23T05:34:53.904Z</updated>
+  <id>http://hodi-inc.github.io/</id>
+  
+  <author>
+    <name>Hodi</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>hellotest</title>
+    <link href="http://hodi-inc.github.io/2020/09/23/hellotest/"/>
+    <id>http://hodi-inc.github.io/2020/09/23/hellotest/</id>
+    <published>2020-09-23T05:34:53.000Z</published>
+    <updated>2020-09-23T05:34:53.904Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+</feed>
